@@ -1,5 +1,3 @@
-
-
 filename = "text/text_3_var_63"
 det = ","
 

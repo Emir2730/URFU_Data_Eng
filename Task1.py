@@ -1,4 +1,3 @@
-
 filename = "text/text_1_var_63"
 
 with open(filename) as f:

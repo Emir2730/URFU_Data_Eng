@@ -1,5 +1,3 @@
-
-
 import csv
 
 filename = "text/text_4_var_63"
@@ -19,10 +17,7 @@ with open(filename, mode = "r", encoding="utf-8") as f:
 
 m /= len(d)
 
-# all filters here
 ml = dict(sorted([[int(k) , v] for k, v in d.items() if (int(v[-1][:-1]) >= m) and (int(v[2]) > age_filter)]))
-
-# try to use filter(lambda v: ...., d.items())
 
 with open(filename + "out", mode = "w", encoding="utf-8") as f:
     d_w = csv.writer(f, delimiter=csv_del)

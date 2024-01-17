@@ -1,0 +1,1145 @@
+[
+    {
+        "_id": {
+            "city": "Касерес",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 63169,
+        "avg_salary": 117381.0,
+        "max_salary": 174613
+    },
+    {
+        "_id": {
+            "city": "Тбилиси",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 154870,
+        "avg_salary": 172694.0,
+        "max_salary": 182797
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 22598,
+        "avg_salary": 74301.2,
+        "max_salary": 182235
+    },
+    {
+        "_id": {
+            "city": "Куэнка",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 47226,
+        "avg_salary": 82711.0,
+        "max_salary": 118196
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 99965,
+        "avg_salary": 115488.66666666667,
+        "max_salary": 138353
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 136843,
+        "avg_salary": 140706.0,
+        "max_salary": 144569
+    },
+    {
+        "_id": {
+            "city": "Картахена",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 132748,
+        "avg_salary": 132748.0,
+        "max_salary": 132748
+    },
+    {
+        "_id": {
+            "city": "Мерида",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 83807,
+        "avg_salary": 114965.0,
+        "max_salary": 149012
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 93969,
+        "avg_salary": 150082.66666666666,
+        "max_salary": 199919
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 79233,
+        "avg_salary": 79233.0,
+        "max_salary": 79233
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 136949,
+        "avg_salary": 137983.0,
+        "max_salary": 139017
+    },
+    {
+        "_id": {
+            "city": "Овьедо",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 129507,
+        "avg_salary": 151944.25,
+        "max_salary": 195766
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 77366,
+        "avg_salary": 122638.0,
+        "max_salary": 167910
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 44220,
+        "avg_salary": 113252.375,
+        "max_salary": 196328
+    },
+    {
+        "_id": {
+            "city": "Луго",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 38095,
+        "avg_salary": 85621.66666666667,
+        "max_salary": 118749
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 108074,
+        "avg_salary": 141812.5,
+        "max_salary": 175551
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 103211,
+        "avg_salary": 103211.0,
+        "max_salary": 103211
+    },
+    {
+        "_id": {
+            "city": "Бланес",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 30266,
+        "avg_salary": 31655.0,
+        "max_salary": 33044
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 70506,
+        "avg_salary": 70506.0,
+        "max_salary": 70506
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 78440,
+        "avg_salary": 78440.0,
+        "max_salary": 78440
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 58849,
+        "avg_salary": 67160.5,
+        "max_salary": 75472
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 21087,
+        "avg_salary": 26315.5,
+        "max_salary": 31544
+    },
+    {
+        "_id": {
+            "city": "Ереван",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 53283,
+        "avg_salary": 122647.0,
+        "max_salary": 173181
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 77189,
+        "avg_salary": 77189.0,
+        "max_salary": 77189
+    },
+    {
+        "_id": {
+            "city": "Мадрид",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 46042,
+        "avg_salary": 110573.0,
+        "max_salary": 180004
+    },
+    {
+        "_id": {
+            "city": "Тбилиси",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 66543,
+        "avg_salary": 66543.0,
+        "max_salary": 66543
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 175080,
+        "avg_salary": 175080.0,
+        "max_salary": 175080
+    },
+    {
+        "_id": {
+            "city": "Вроцлав",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 197788,
+        "avg_salary": 197788.0,
+        "max_salary": 197788
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 74289,
+        "avg_salary": 74289.0,
+        "max_salary": 74289
+    },
+    {
+        "_id": {
+            "city": "Хельсинки",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 63648,
+        "avg_salary": 79550.0,
+        "max_salary": 95452
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 53382,
+        "avg_salary": 120090.5,
+        "max_salary": 186799
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 89771,
+        "avg_salary": 136435.5,
+        "max_salary": 183100
+    },
+    {
+        "_id": {
+            "city": "Варшава",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 61222,
+        "avg_salary": 107741.66666666667,
+        "max_salary": 197607
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 182317,
+        "avg_salary": 182317.0,
+        "max_salary": 182317
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 158453,
+        "avg_salary": 158453.0,
+        "max_salary": 158453
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 85318,
+        "avg_salary": 85318.0,
+        "max_salary": 85318
+    },
+    {
+        "_id": {
+            "city": "Тарраса",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 31579,
+        "avg_salary": 98691.5,
+        "max_salary": 165804
+    },
+    {
+        "_id": {
+            "city": "Кишинев",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 60592,
+        "avg_salary": 60592.0,
+        "max_salary": 60592
+    },
+    {
+        "_id": {
+            "city": "Ереван",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 37304,
+        "avg_salary": 108954.0,
+        "max_salary": 139947
+    },
+    {
+        "_id": {
+            "city": "Бланес",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 144414,
+        "avg_salary": 144414.0,
+        "max_salary": 144414
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 106799,
+        "avg_salary": 106799.0,
+        "max_salary": 106799
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 35575,
+        "avg_salary": 116133.4,
+        "max_salary": 185706
+    },
+    {
+        "_id": {
+            "city": "Мартоса",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 46472,
+        "avg_salary": 73136.0,
+        "max_salary": 99800
+    },
+    {
+        "_id": {
+            "city": "Варшава",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 33027,
+        "avg_salary": 57789.5,
+        "max_salary": 82552
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 21774,
+        "avg_salary": 99176.5,
+        "max_salary": 168153
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 85680,
+        "avg_salary": 91745.0,
+        "max_salary": 97810
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 55583,
+        "avg_salary": 55583.0,
+        "max_salary": 55583
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 57215,
+        "avg_salary": 57215.0,
+        "max_salary": 57215
+    },
+    {
+        "_id": {
+            "city": "Сан-Себастьян",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 46079,
+        "avg_salary": 102359.0,
+        "max_salary": 158639
+    },
+    {
+        "_id": {
+            "city": "Астана",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 175945,
+        "avg_salary": 175945.0,
+        "max_salary": 175945
+    },
+    {
+        "_id": {
+            "city": "Эльче",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 41810,
+        "avg_salary": 111258.5,
+        "max_salary": 166734
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 58901,
+        "avg_salary": 113626.33333333333,
+        "max_salary": 196573
+    },
+    {
+        "_id": {
+            "city": "Подгорица",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 101723,
+        "avg_salary": 106485.5,
+        "max_salary": 111248
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 22639,
+        "avg_salary": 22639.0,
+        "max_salary": 22639
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 108638,
+        "avg_salary": 108638.0,
+        "max_salary": 108638
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 29431,
+        "avg_salary": 29431.0,
+        "max_salary": 29431
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 117987,
+        "avg_salary": 117987.0,
+        "max_salary": 117987
+    },
+    {
+        "_id": {
+            "city": "Ташкент",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 23047,
+        "avg_salary": 106459.71428571429,
+        "max_salary": 159518
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 72680,
+        "avg_salary": 72680.0,
+        "max_salary": 72680
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 26768,
+        "avg_salary": 101061.33333333333,
+        "max_salary": 161027
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 37790,
+        "avg_salary": 87256.66666666667,
+        "max_salary": 176187
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 42325,
+        "avg_salary": 75145.5,
+        "max_salary": 107966
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 42749,
+        "avg_salary": 42749.0,
+        "max_salary": 42749
+    },
+    {
+        "_id": {
+            "city": "Картахена",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 179765,
+        "avg_salary": 179765.0,
+        "max_salary": 179765
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 58772,
+        "avg_salary": 58772.0,
+        "max_salary": 58772
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 168084,
+        "avg_salary": 168084.0,
+        "max_salary": 168084
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 40025,
+        "avg_salary": 74842.66666666667,
+        "max_salary": 140520
+    },
+    {
+        "_id": {
+            "city": "Луарка",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 87006,
+        "avg_salary": 116914.33333333333,
+        "max_salary": 155282
+    },
+    {
+        "_id": {
+            "city": "Мадрид",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 178679,
+        "avg_salary": 178679.0,
+        "max_salary": 178679
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 147580,
+        "avg_salary": 167232.0,
+        "max_salary": 186884
+    },
+    {
+        "_id": {
+            "city": "София",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 160059,
+        "avg_salary": 160059.0,
+        "max_salary": 160059
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 118830,
+        "avg_salary": 118830.0,
+        "max_salary": 118830
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 27177,
+        "avg_salary": 54377.0,
+        "max_salary": 100139
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 112008,
+        "avg_salary": 131775.0,
+        "max_salary": 151542
+    },
+    {
+        "_id": {
+            "city": "Ла-Корунья",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 131368,
+        "avg_salary": 131368.0,
+        "max_salary": 131368
+    },
+    {
+        "_id": {
+            "city": "Сан-Себастьян",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 25924,
+        "avg_salary": 65824.33333333333,
+        "max_salary": 138291
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 154261,
+        "avg_salary": 154261.0,
+        "max_salary": 154261
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 26481,
+        "avg_salary": 26481.0,
+        "max_salary": 26481
+    },
+    {
+        "_id": {
+            "city": "Валенсия",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 61212,
+        "avg_salary": 74320.0,
+        "max_salary": 120762
+    },
+    {
+        "_id": {
+            "city": "Эль-Пуэрто-де-Санта-Мария",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 32774,
+        "avg_salary": 72122.33333333333,
+        "max_salary": 116979
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 110319,
+        "avg_salary": 153085.33333333334,
+        "max_salary": 198688
+    },
+    {
+        "_id": {
+            "city": "Мартоса",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 59467,
+        "avg_salary": 59467.0,
+        "max_salary": 59467
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 25208,
+        "avg_salary": 55850.5,
+        "max_salary": 86493
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 74727,
+        "avg_salary": 74727.0,
+        "max_salary": 74727
+    },
+    {
+        "_id": {
+            "city": "Севилья",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 62611,
+        "avg_salary": 72927.0,
+        "max_salary": 83243
+    },
+    {
+        "_id": {
+            "city": "Севилья",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 79406,
+        "avg_salary": 121748.66666666667,
+        "max_salary": 189012
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 126642,
+        "avg_salary": 126642.0,
+        "max_salary": 126642
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 58527,
+        "avg_salary": 58527.0,
+        "max_salary": 58527
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 31389,
+        "avg_salary": 50445.0,
+        "max_salary": 82613
+    },
+    {
+        "_id": {
+            "city": "Краков",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 160124,
+        "avg_salary": 160124.0,
+        "max_salary": 160124
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 70132,
+        "avg_salary": 104133.0,
+        "max_salary": 138134
+    },
+    {
+        "_id": {
+            "city": "София",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 113154,
+        "avg_salary": 113154.0,
+        "max_salary": 113154
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 96001,
+        "avg_salary": 119508.5,
+        "max_salary": 143016
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 31172,
+        "avg_salary": 98238.8,
+        "max_salary": 163282
+    },
+    {
+        "_id": {
+            "city": "Скопье",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 57241,
+        "avg_salary": 70536.33333333333,
+        "max_salary": 95745
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 36570,
+        "avg_salary": 36570.0,
+        "max_salary": 36570
+    },
+    {
+        "_id": {
+            "city": "Овьедо",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 23112,
+        "avg_salary": 36782.5,
+        "max_salary": 50453
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 77721,
+        "avg_salary": 90717.5,
+        "max_salary": 103714
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 146255,
+        "avg_salary": 146255.0,
+        "max_salary": 146255
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 156194,
+        "avg_salary": 156194.0,
+        "max_salary": 156194
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 135813,
+        "avg_salary": 135813.0,
+        "max_salary": 135813
+    },
+    {
+        "_id": {
+            "city": "Вроцлав",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 47246,
+        "avg_salary": 47246.0,
+        "max_salary": 47246
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 51290,
+        "avg_salary": 117147.75,
+        "max_salary": 179891
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 72776,
+        "avg_salary": 109363.0,
+        "max_salary": 145950
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 98427,
+        "avg_salary": 138266.5,
+        "max_salary": 178106
+    },
+    {
+        "_id": {
+            "city": "Москва",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 27337,
+        "avg_salary": 67966.33333333333,
+        "max_salary": 120198
+    },
+    {
+        "_id": {
+            "city": "Мерида",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 100187,
+        "avg_salary": 100187.0,
+        "max_salary": 100187
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 61900,
+        "avg_salary": 115576.75,
+        "max_salary": 163970
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 179396,
+        "avg_salary": 179396.0,
+        "max_salary": 179396
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 35909,
+        "avg_salary": 35909.0,
+        "max_salary": 35909
+    },
+    {
+        "_id": {
+            "city": "Баку",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 31889,
+        "avg_salary": 106330.33333333333,
+        "max_salary": 156786
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 143475,
+        "avg_salary": 143475.0,
+        "max_salary": 143475
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 32857,
+        "avg_salary": 84368.5,
+        "max_salary": 135880
+    },
+    {
+        "_id": {
+            "city": "Подгорица",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 196124,
+        "avg_salary": 196124.0,
+        "max_salary": 196124
+    },
+    {
+        "_id": {
+            "city": "Белград",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 104593,
+        "avg_salary": 125507.0,
+        "max_salary": 146421
+    },
+    {
+        "_id": {
+            "city": "Краков",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 38442,
+        "avg_salary": 79671.66666666667,
+        "max_salary": 126679
+    },
+    {
+        "_id": {
+            "city": "Ташкент",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 111264,
+        "avg_salary": 111264.0,
+        "max_salary": 111264
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 91626,
+        "avg_salary": 91626.0,
+        "max_salary": 91626
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 46906,
+        "avg_salary": 80952.5,
+        "max_salary": 114999
+    },
+    {
+        "_id": {
+            "city": "Эльче",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 56230,
+        "avg_salary": 100375.66666666667,
+        "max_salary": 144145
+    },
+    {
+        "_id": {
+            "city": "Бишкек",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 84782,
+        "avg_salary": 102923.0,
+        "max_salary": 121614
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 27703,
+        "avg_salary": 27703.0,
+        "max_salary": 27703
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 116363,
+        "avg_salary": 116363.0,
+        "max_salary": 116363
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 139821,
+        "avg_salary": 139821.0,
+        "max_salary": 139821
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 70511,
+        "avg_salary": 77117.0,
+        "max_salary": 83723
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "age_criteria": "18-24"
+        },
+        "min_salary": 136761,
+        "avg_salary": 136761.0,
+        "max_salary": 136761
+    },
+    {
+        "_id": {
+            "city": "Алма-Ата",
+            "age_criteria": "50-64"
+        },
+        "min_salary": 58172,
+        "avg_salary": 63514.5,
+        "max_salary": 68857
+    }
+]

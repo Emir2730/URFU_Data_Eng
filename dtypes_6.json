@@ -1,0 +1,1 @@
+{"Highest Offense Code": "uint16", "APD Sector": "category", "Report Time": "float32", "Zip Code": "float32", "Council District": "float32", "APD District": "category", "PRA": "category", "Census Tract": "float32", "Latitude": "float32", "Longitude": "float32"}
